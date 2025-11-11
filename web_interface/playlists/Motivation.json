@@ -1,0 +1,679 @@
+{
+  "songs": [
+    {
+      "artistId": "UCxgN32UVVztKAQd2HkXzBtw",
+      "duration": 206,
+      "id": "eXRWHzV72sU",
+      "title": "What I've Done",
+      "artwork": "https://lh3.googleusercontent.com/BtAKhqmTBoZWEQPlcF9tgpqILWNkQ4vc0tk0nlSrIpdvhW9sf9K-tQDoym1zh9Svl-8PnpFCY_6vNYg7=w60-h60-l90-rj",
+      "releaseDate": null,
+      "artistName": "Linkin Park",
+      "albumTitle": "Minutes to Midnight"
+    },
+    {
+      "id": "dfk6i41GCNo",
+      "artistId": "UC0NqJ6MhRnkRaWAmBgyyjTA",
+      "artwork": "https://lh3.googleusercontent.com/dTaLSBJmPtDdl69KdOGmYmfEb6EEwGkaEcm3j3ksWgdppIUjfNnVLE_jxLTkJl7KBliu5_YjMPfGLDuV=w60-h60-l90-rj",
+      "releaseDate": "2015-10-06T16:16:05.849Z",
+      "duration": 229,
+      "artistName": "Fall Out Boy",
+      "title": "Centuries",
+      "albumTitle": "American Beauty/American Psycho"
+    },
+    {
+      "id": "Pi3_Zs-oRUo",
+      "duration": null,
+      "albumTitle": "4:58",
+      "releaseDate": null,
+      "title": "Till I Collapse (feat. Eminem)",
+      "artwork": "https://lh3.googleusercontent.com/OHJbRg4Bino9ZrrWAJ24QEfZU6RVNOGPUAF90jtlND472g4FhFu53einDnUM5pEL4Rt26zR2YGSNfqpo=w60-h60-s-l90-rj",
+      "artistName": "Eminem",
+      "artistId": "UCedvOgsKFzcK3hA5taf3KoQ"
+    },
+    {
+      "albumTitle": "ATLAS",
+      "title": "Legend",
+      "id": "-Oleu6OEJYY",
+      "releaseDate": null,
+      "artistName": "The Score",
+      "artistId": "UCdQICt_YIo4FEOaLtTOi4RA",
+      "duration": 190,
+      "artwork": "https://lh3.googleusercontent.com/JeVJiVrap9mLd7VkPBqggE9oExQLacJPEc8HTPaREZBcXD3jezxDioUhDaszLqNIRybm3UCujPsq2-Y=w60-h60-l90-rj"
+    },
+    {
+      "artistName": "Oh The Larceny",
+      "artistId": "UCHqr3Pg4N6oTnLWPD6R32gg",
+      "duration": null,
+      "albumTitle": "3:01",
+      "title": "Can't Stop Me Now",
+      "artwork": "https://lh3.googleusercontent.com/CiW2ULdAQPYX3jIerrDnVUytat13NKMN0m2sqanTSVUsJbr6txrykphHy1yqHxX7g1nsvB6x6Gmd7CUxRA=w60-h60-l90-rj",
+      "releaseDate": null,
+      "id": "cB0onHNiAfo"
+    },
+    {
+      "duration": 229,
+      "artwork": "https://lh3.googleusercontent.com/hODDHUBZVBwUJbiYFgy0Ulx39cnH1f1eS1-i5oyP_zdlEzo5XtfSnGHnWdfEO2KlcDMBfuePrYFQ7g4U=w60-h60-l90-rj",
+      "releaseDate": null,
+      "artistId": "UCXRGZ5YIBOd_Z7FWspcI8Gw",
+      "albumTitle": "Heaven on Hold",
+      "title": "Stomp Me Out",
+      "artistName": "Bryce Fox",
+      "id": "KcVEE8BmLzA"
+    },
+    {
+      "artistName": "Fall Out Boy",
+      "duration": 187,
+      "artistId": "UC0NqJ6MhRnkRaWAmBgyyjTA",
+      "title": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "artwork": "https://lh3.googleusercontent.com/LXwcLiYgeVLXuBFNakvDY1OQk-peMmgVldpwpuvWes2iUIuUbzBgAwpgBUd2btCfav_jxlBqvHa2XPU=w60-h60-l90-rj",
+      "releaseDate": null,
+      "id": "6LUon6zLyTM",
+      "albumTitle": "Save Rock And Roll"
+    },
+    {
+      "releaseDate": null,
+      "artistName": "The Score",
+      "duration": 193,
+      "artistId": "UCdQICt_YIo4FEOaLtTOi4RA",
+      "title": "Unstoppable",
+      "id": "YHJVMELihGc",
+      "albumTitle": "ATLAS (Deluxe)",
+      "artwork": "https://lh3.googleusercontent.com/zEekZfRiz4Mn5a0YpmLS1nr3ubJCnNlRkfz5FWzFAiqEwPvK1aVh9BfJUlO05TAOjVSdCGEJMRm0yY02=w60-h60-l90-rj"
+    },
+    {
+      "releaseDate": null,
+      "artistId": "UC0aXrjVxG5pZr99v77wZdPQ",
+      "albumTitle": "3:51",
+      "artwork": "https://lh3.googleusercontent.com/7ovSCLhJzoJ_CMbj3tlb5lVNKQFDIdFMVNmj4Q0TBsD3nMzGYqmkz5BoQ-RvuC9tfme4M-MfAqQx-ST5=w60-h60-l90-rj",
+      "artistName": "Imagine Dragons",
+      "duration": null,
+      "id": "0HgJwrwEEKQ",
+      "title": "I’m So Sorry"
+    },
+    {
+      "title": "Centuries (Remix) (feat. Juicy J)",
+      "albumTitle": "Make America Psycho Again",
+      "releaseDate": null,
+      "artistName": "Fall Out Boy",
+      "id": "XVljrmrExFw",
+      "duration": 203,
+      "artwork": "https://lh3.googleusercontent.com/80GLHelikuhREin-r2ob8uU60VYLBivVNTGufRrUR12M3QWILq9MYujflBvnNSFxEjZXrd_-ozt1QLE=w60-h60-l90-rj",
+      "artistId": "UC0NqJ6MhRnkRaWAmBgyyjTA"
+    },
+    {
+      "albumTitle": "4:53",
+      "title": "POWER",
+      "duration": 292.08,
+      "artistId": "UCRY5dYsbIN5TylSbd7gVnZg",
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/W14ZE46HSg2LNfqEhasrU-T5q3Lui_Uv6YjmjorLBR5Tl6ynmU1ee1VsjOuzBomdWsJpsceJLdMRy_k=w60-h60-l90-rj",
+      "artistName": "Kanye West",
+      "id": "chPDTUjnWgA"
+    },
+    {
+      "id": "Ygh9daOR9iY",
+      "artistId": "UC8cvnR0cWPALMYY1zJXWRgA",
+      "releaseDate": null,
+      "albumTitle": "Rule the World",
+      "artistName": "Zayde Wølf",
+      "title": "Rule the World",
+      "artwork": "https://lh3.googleusercontent.com/HH_6Pw2LAEyHPhvUl-XdDHyvK-wgIjYRlk1W_zo5b9HAUD6HGme9vAaU9RcpnxUytiLJ-ykGL7W9F4ht=w60-h60-l90-rj",
+      "duration": 193
+    },
+    {
+      "duration": null,
+      "id": "cjfWeaPkNoI",
+      "releaseDate": null,
+      "artistId": "UCOnjfbg3ooksS-Mxse2Gc5g",
+      "artwork": "https://lh3.googleusercontent.com/zBcXsMR3kZoo35csF0Ny4_n4c9lOTCx-hsESKfgz1C4ZZzCaAeNAslPcnieA9J1Y8bwdm9y1F81__24=w60-h60-l90-rj",
+      "title": "Monster",
+      "albumTitle": "3:59",
+      "artistName": "Willyecho"
+    },
+    {
+      "artistId": "UC77I57qu_zjVH-Q-h31U0sw",
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/kLhN_zPCYeyO0f8wveQoHSVr17ySK5bScoJf4NW1hafsRPzAkW1DAxBsa0p5FxUJtFX2kPKD_OIH-vzi=w60-h60-l90-rj",
+      "duration": null,
+      "id": "iBDW7yO82is",
+      "title": "I'm Dangerous",
+      "albumTitle": "4:04",
+      "artistName": "The Everlove"
+    },
+    {
+      "albumTitle": "3:20",
+      "releaseDate": null,
+      "id": "Nd2p0rYqqZA",
+      "artistId": "UCHqr3Pg4N6oTnLWPD6R32gg",
+      "artistName": "Oh The Larceny",
+      "artwork": "https://lh3.googleusercontent.com/0p2YqTKbY82igegWJCvyTpUZO4O0m9-ZYrw-g47dRmj2OHxBORb6kHpx1aIVgMAxxN1L1FAJRLsHXuTQ=w60-h60-l90-rj",
+      "duration": null,
+      "title": "Man On Fire"
+    },
+    {
+      "duration": 154,
+      "releaseDate": null,
+      "artistName": "Club Danger",
+      "id": "eBXF5q52UpE",
+      "albumTitle": "Living Legend",
+      "title": "Living Legend",
+      "artistId": "UC0Weba1dyGWteAhIKyRW5xA",
+      "artwork": "https://lh3.googleusercontent.com/m2rpDNyVaNm_1fty7cwptp2fnTA2p2HLzAf4GXO6b9mTaEGmC7z9EMmCfz-ACuEGFr7AhFXo6PxlLkIMIA=w60-h60-l90-rj"
+    },
+    {
+      "releaseDate": null,
+      "title": "Eye of the Storm",
+      "id": "pypuoEoQMZw",
+      "artistName": "Pop Evil",
+      "artwork": "https://lh3.googleusercontent.com/pDwjc3oIGgVqJhOzxj8EQcEiDqpdbv17r3dNbtce8x9ML7WJuH9h2fokPSfUuEC4AUh-mqD5S_ipnexh=w60-h60-l90-rj",
+      "albumTitle": "Eye of the Storm",
+      "duration": 235,
+      "artistId": "UCFYQAZHOk5-hWHwFPV-B-RQ"
+    },
+    {
+      "id": "EVGJEcOx8Ok",
+      "artwork": "https://lh3.googleusercontent.com/UDUV3f7Bt447nNoViMoRMgeF-7dUlCkbIXdofDqcC9_W6hcf_9ewmXELNQMN7a0UqY7nBcmGsZp_fvplNg=w60-h60-l90-rj",
+      "artistName": "On the Corner",
+      "albumTitle": "Landfall",
+      "title": "Gloves Are Off",
+      "releaseDate": null,
+      "duration": 178,
+      "artistId": "UCo8gO_ONBKs6Zm18vil4Yew"
+    },
+    {
+      "albumTitle": "This Is My World",
+      "artistId": "UCZCr8ooIEUsNygfIqiIfGnQ",
+      "releaseDate": null,
+      "artistName": "Esterly",
+      "title": "This Is My World (feat. Austin Jenckes)",
+      "duration": 190,
+      "artwork": "https://lh3.googleusercontent.com/mglTeqsX_DwEGG4taf9bH9d1iaejDv_Cvfdig0hxW7iV8eLlVEPqo7yTakR3GvOwNPcdRGb0udbYQJzp=w60-h60-l90-rj",
+      "id": "NdIqgkj1Kcs"
+    },
+    {
+      "albumTitle": "3:29",
+      "releaseDate": null,
+      "artistId": "UC-g9MOqNBUTHrv5orJmMXBQ",
+      "artwork": "https://lh3.googleusercontent.com/SjAQUNrkCCPEzhFH-jvawBnZ_xxYwrmx3RaT-PbSp9m3-K7vJrjqWExnmK-RU920ZcYaVORk27RtnbzAgw=w60-h60-l90-rj",
+      "id": "-TDVC9R0xO0",
+      "duration": null,
+      "title": "Our World",
+      "artistName": "Campfire"
+    },
+    {
+      "albumTitle": "The End Is Where We Begin",
+      "id": "8onXlXfbOXs",
+      "duration": 232,
+      "artistId": "UC_o4Fz0kJt1pY-45KT10BEA",
+      "artistName": "Thousand Foot Krutch",
+      "artwork": "https://lh3.googleusercontent.com/6M3wYtyNcB9ckYYGXSmcD41Fi2lHGR8hczuw34zXhEOORXfpb832-i_surd2dGJInWkLqxS1iv7XDFZH=w60-h60-l90-rj",
+      "releaseDate": null,
+      "title": "War of Change"
+    },
+    {
+      "artistId": "UC9kQQ38Q9gArS0ES7H_VbKA",
+      "albumTitle": "Out For Blood",
+      "title": "Rule The World",
+      "artistName": "Valley Of Wolves",
+      "artwork": "https://lh3.googleusercontent.com/YmX3p4KcJic1YeJBgfd5kDomFc7L4iJFXy49RG_erQrISL3VxsDFIdXK-m-uwFPbZlByLqh_SLzKIyzj=w60-h60-l90-rj",
+      "id": "JaOI89rUlX8",
+      "releaseDate": null,
+      "duration": 211
+    },
+    {
+      "releaseDate": null,
+      "artistId": "UCdQICt_YIo4FEOaLtTOi4RA",
+      "title": "Born For This",
+      "artistName": "The Score",
+      "albumTitle": "Pressure",
+      "duration": 235,
+      "artwork": "https://lh3.googleusercontent.com/3gAlmAgsnd_7O1QutVy9cYdX3pdLy8b0KjXCOPfdEVhFFLNpYnlFnnXgdQBUcYtDrtLWkbZAcRUWXj5A=w60-h60-l90-rj",
+      "id": "4k4towEUqj0"
+    },
+    {
+      "duration": 244.664,
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/JfaO5TOusG_EHcZvN5yH2spqnbDK__pH2qTRAZPDVMd51EX3wH8YH-lIcEhjEzX0rT_T5_OxPgvipoxO=w60-h60-l90-rj",
+      "id": "i3QQSWG8cbU",
+      "artistName": "Fearless Motivation",
+      "albumTitle": "4:05",
+      "title": "Focus (feat. Alpha)",
+      "artistId": "UCUxesMwPc38gIKN39L6nfig"
+    },
+    {
+      "albumTitle": "Hands Up",
+      "id": "0PXx_X2MktY",
+      "artistId": "UCZWfZk9hO4eVG5Un-Msr93A",
+      "title": "Hands Up",
+      "releaseDate": null,
+      "artistName": "City Wolf",
+      "duration": 205,
+      "artwork": "https://lh3.googleusercontent.com/7hd1exzJgCXz8-r5yNJBZtZPwtLp1I2dR9DO0Fgg0cBVRF7rpTyRv1HMspBAYhT9mQRzaADhZs36sqsf=w60-h60-l90-rj"
+    },
+    {
+      "artistName": "Saysh",
+      "id": "HS5_4AFvDcE",
+      "title": "Let It Begin",
+      "duration": null,
+      "releaseDate": null,
+      "albumTitle": "2:24",
+      "artwork": "https://lh3.googleusercontent.com/s73tvEX6heZndWRxnVaU9bx17a_Qr2VpHRPMZrodPw20VqP1SlfRlnjBCxLzsYKSioh23M2EPLQu7BfE=w60-h60-l90-rj",
+      "artistId": "UCfZ0XuQ5uzXLKjbl7OB0Dng"
+    },
+    {
+      "albumTitle": "Evolve",
+      "title": "Believer",
+      "id": "Kx7B-XvmFtE",
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w60-h60-l90-rj",
+      "artistId": "UC0aXrjVxG5pZr99v77wZdPQ",
+      "duration": 205,
+      "artistName": "Imagine Dragons"
+    },
+    {
+      "artistName": "Fearless Motivation",
+      "artwork": "https://lh3.googleusercontent.com/zWawZIUXc1V8pD4Bmg_o6sX16dPjlExZViaf1J4y5S80BBLZPmuhG0bok3ETDsLWEDkv5hk6P9jsU1nm=w60-h60-l90-rj",
+      "releaseDate": null,
+      "albumTitle": "Recharge",
+      "id": "_z94fBhLPrI",
+      "duration": 178,
+      "artistId": "UCUxesMwPc38gIKN39L6nfig",
+      "title": "Long Live the King (feat. Alpha)"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/n0F1bV8P-57xXhCXnhvQMk9pDT_WHa9OERoV6lQkiB_hWxhc6RlZdjd4oqBcU-2eAPNM7nbTUxv9Qwo02g=w60-h60-l90-rj",
+      "albumTitle": "Gladiator",
+      "releaseDate": null,
+      "artistName": "Zayde Wølf",
+      "artistId": "UC8cvnR0cWPALMYY1zJXWRgA",
+      "title": "Gladiator",
+      "id": "AG9bspqR0ZE",
+      "duration": 189
+    },
+    {
+      "duration": 249,
+      "artwork": "https://lh3.googleusercontent.com/Q6I69dQikS1rEBZINcUxydJU2Yv6T6Ef2v485d-indWmIlsmvLpSsZSZilcsnaXPn3rKedEuHwbK6vGePA=w60-h60-l90-rj",
+      "id": "IouwridvPqs",
+      "artistId": "UC8PrS0Kmg-nZ_3-tAsNRSnQ",
+      "artistName": "The Seige",
+      "releaseDate": null,
+      "albumTitle": "I Am Defiant",
+      "title": "I Am Defiant"
+    },
+    {
+      "id": "RPQ1jyGKGYI",
+      "title": "The Hunter",
+      "artwork": "https://lh3.googleusercontent.com/MCPQ1vv2R_Vdd6e1lKEYNXREnhd-aPcdLwUufRVrU8Bs3L5FYsi53ybN4PEUioZlutVv-p8-HhuFh4vIRg=w60-h60-l90-rj",
+      "artistName": "Adam Jensen",
+      "duration": null,
+      "releaseDate": null,
+      "artistId": "UCbJpeNvoq8gE_6j3QfwtJDQ",
+      "albumTitle": "3:31"
+    },
+    {
+      "artistName": "Zayde Wølf",
+      "id": "ToaScgrmmV8",
+      "title": "New Blood",
+      "artwork": "https://lh3.googleusercontent.com/IXEcypvPZicEFFikOfvg4rjwE8IWwd4vzpJijwq0d8NuslxUF6r0jNcdx6h9l3YX-NxgP4WPL0qldLI9cg=w60-h60-l90-rj",
+      "albumTitle": "Rare Breed",
+      "duration": 199,
+      "releaseDate": null,
+      "artistId": "UC8cvnR0cWPALMYY1zJXWRgA"
+    },
+    {
+      "id": "aoFkvAhAvFA",
+      "title": "Are You Ready for This",
+      "artwork": "https://lh3.googleusercontent.com/8vuwZjSLE4AzGNm2ThA8_Ch8prfTTZTjAmTKaEc6wyJMhanF1-AEVqaZvsDVBE_qrESSPpNnAgQG94Tb=w60-h60-l90-rj",
+      "duration": 177,
+      "artistName": "Clear Blue Fire",
+      "artistId": "UC-k-GIrUVxeh_VrBTkcnMEg",
+      "albumTitle": "Are You Ready for This",
+      "releaseDate": null
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/HYCRq7BC9dvx4RATAsFR3tovrz0MjiBDIIEc8oI0UImwheSSt4MMqeY4igF6ltkuICLfezChz_RSpVnL=w60-h60-l90-rj",
+      "albumTitle": "2:48",
+      "releaseDate": null,
+      "id": "IR0wR8wjY5M",
+      "duration": 167.84,
+      "artistId": "UC91mKcrhasFLiNlv9PuHTtw",
+      "artistName": "Graffiti Ghosts",
+      "title": "Last Man Standing"
+    },
+    {
+      "albumTitle": "3:17",
+      "artwork": "https://lh3.googleusercontent.com/ry3qIWDob46sUyymco_eK5NW-ceiju-XqUBi1YRjgB_Kj8SFzY0zSICZNPsCrC-pAtvbwWjKhF6Qbd4=w60-h60-l90-rj",
+      "artistId": "UCO9drtplyOsAqZWRFEzwQ1g",
+      "releaseDate": null,
+      "duration": 196.8,
+      "artistName": "JAXSON GAMBLE",
+      "id": "XPDp2l2tX-o",
+      "title": "Reckless"
+    },
+    {
+      "artistName": "Clear Blue Fire",
+      "artistId": "UC-k-GIrUVxeh_VrBTkcnMEg",
+      "title": "The Fire",
+      "id": "4L57lmX2QKg",
+      "albumTitle": "The Fire",
+      "releaseDate": null,
+      "duration": 232,
+      "artwork": "https://lh3.googleusercontent.com/w-ALSpARvUKCydhTNZXS131qlLtUbAWMWra8C4JG6GfuLK2k24mRoIXsAfPgceYMZIRLF3hcdkJTsliv=w60-h60-l90-rj"
+    },
+    {
+      "artistId": "UCO9drtplyOsAqZWRFEzwQ1g",
+      "title": "Knock Back",
+      "releaseDate": null,
+      "albumTitle": "Knock Back",
+      "artistName": "JAXSON GAMBLE",
+      "artwork": "https://lh3.googleusercontent.com/p65ZWOkJn0_ovJ6CY4IIahZwzQfHZ8UbMOFNAdqAexMRhs64TI85AuS08NDcM5BE0pTC4tuMHGENS-jN=w60-h60-l90-rj",
+      "id": "aKZPcHi5jOU",
+      "duration": 175
+    },
+    {
+      "releaseDate": null,
+      "duration": 175,
+      "title": "Legend",
+      "artistId": "UCKoE3GKzObhSlNI7hptT5rQ",
+      "id": "nDYO5L-zm2Y",
+      "artistName": "Carry the Throne",
+      "albumTitle": "Legend",
+      "artwork": "https://lh3.googleusercontent.com/MX4w9ixDH-SYZXbaxskGXO9YbpeLS3lCjLgm29SL04ulycyTxXoIPM-hMEqb-1i8C_82trCCFYw-c-U=w60-h60-l90-rj"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/hZpuqQ_IVyrkH7tXFqlXBE80y_vgrnqgeMG4bK2Js2q8guEx1tl2Gg2rcXQ_jbVcCdUXo35ajg6oy1SO=w60-h60-l90-rj",
+      "releaseDate": null,
+      "artistId": "UC9pafmRyrIdgNBHaFNQmufg",
+      "artistName": "Sons of Legion",
+      "title": "Power",
+      "duration": null,
+      "id": "_WxmZ3neiec",
+      "albumTitle": "2:44"
+    },
+    {
+      "artistId": "UCZWfZk9hO4eVG5Un-Msr93A",
+      "title": "Made For This",
+      "duration": 208.48,
+      "releaseDate": null,
+      "artistName": "City Wolf",
+      "albumTitle": "3:29",
+      "id": "9hGSF4Y0qLg",
+      "artwork": "https://lh3.googleusercontent.com/TfZP_A48Dn6eX7yCx0C41p2l_-3M0SmYtkzaavbRgKUlqUPuLe9L1Aroih-eL8Jespx0F6PlwD5NTDI=w60-h60-l90-rj"
+    },
+    {
+      "title": "Never Back Down",
+      "releaseDate": null,
+      "duration": 146,
+      "artwork": "https://lh3.googleusercontent.com/grrV7A3fuisdUUuPGxh95-BbiNE2EjQwxu1yDac4OHZ8NBUQf_FqE8iDeJ3s5EeRGqv9rAuZB5BWKNKE=w60-h60-l90-rj",
+      "albumTitle": "Easy McCoy",
+      "id": "9xZeIfDTshk",
+      "artistId": "UCrb3hbfGckTuTAENQkQG-ZA",
+      "artistName": "The Prizefighter"
+    },
+    {
+      "albumTitle": "4:09",
+      "artistId": "UC2P3PlwUfweBxGGfGlYukQQ",
+      "artwork": "https://lh3.googleusercontent.com/i7Wp2-VF_0f7AjVAGVJdRXm8B49UOX12RSG4MrWsbRWIAEFsfsW9kRYtoiozusTY5OEG-BpoG6eiZxlW=w60-h60-l90-rj",
+      "duration": 248.04,
+      "artistName": "JØAN",
+      "id": "x4OQGHoUHA4",
+      "releaseDate": null,
+      "title": "Born Brave"
+    },
+    {
+      "releaseDate": null,
+      "artistName": "Thousand Foot Krutch",
+      "artwork": "https://lh3.googleusercontent.com/vi_h5AAfkwnMdWq6ExUXiDKzJlG9z_fbhkWsqwptnLpEj3gduOAx1Rv6KgAJVD8YnQ-lwVVqB8V7T57D=w60-h60-l90-rj",
+      "artistId": "UC_o4Fz0kJt1pY-45KT10BEA",
+      "title": "Untraveled Road",
+      "id": "JQplqa0z5zY",
+      "duration": 236,
+      "albumTitle": "Oxygen:Inhale"
+    },
+    {
+      "albumTitle": "3:27",
+      "id": "kKRrZwe5yTs",
+      "artistId": "UCba3Vvmq8f-4SxDPa00V5ag",
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/1zENA-6_D_eEIiFsi0pg9juNlA0DSJqArxikl8Rt8ZO3DZhhevYC24yunoszhhbPzrlWhzV4r_0rfJ3V=w60-h60-l90-rj",
+      "duration": 206.68,
+      "artistName": "12 Stones",
+      "title": "We Are One"
+    },
+    {
+      "albumTitle": "Oh the Larceny",
+      "releaseDate": null,
+      "id": "vLlcljh_IP0",
+      "artistId": "UCHqr3Pg4N6oTnLWPD6R32gg",
+      "title": "Man on a Mission",
+      "duration": 212,
+      "artistName": "Oh The Larceny",
+      "artwork": "https://lh3.googleusercontent.com/CiW2ULdAQPYX3jIerrDnVUytat13NKMN0m2sqanTSVUsJbr6txrykphHy1yqHxX7g1nsvB6x6Gmd7CUxRA=w60-h60-l90-rj"
+    },
+    {
+      "albumTitle": "2:52",
+      "artistId": "UCGmAtQKqNd8IBhxYDkGcrLg",
+      "id": "mXGsD_Ze-Ug",
+      "releaseDate": null,
+      "title": "Rise Up",
+      "duration": null,
+      "artwork": "https://lh3.googleusercontent.com/bnlYH6LS15k74qiBX2Q3EY7a0WrOsQP_nOZaERSwMQ0GlL5aXh4MH7u8_W9IyteM46Z7tt_RPqfV3H-Y=w60-h60-l90-rj",
+      "artistName": "Brad Urba"
+    },
+    {
+      "title": "Free Me",
+      "releaseDate": null,
+      "artistName": "NEFFEX",
+      "duration": 138,
+      "artwork": "https://lh3.googleusercontent.com/o8DRWvQKeY0QnL6wKAFOU3LWNm7Gvk1tDGO7X4dkjCpf9sE6TdHMj249jIOnr8jw0sLyYDLOhcWfIUw=w60-h60-l90-rj",
+      "artistId": "UC281fR3Rg1O08xpxArdbdew",
+      "id": "fmDcDypPeKE",
+      "albumTitle": "Free Me"
+    },
+    {
+      "artistName": "NEFFEX",
+      "duration": 184,
+      "releaseDate": null,
+      "id": "9PzTvAdXwwE",
+      "artwork": "https://lh3.googleusercontent.com/Bo8KS75rA-YQvNFcoMcCUipHIcBDhv6pRX-LfkXngT97xYwLL3WLTgatn5bmB3DQr6sm6GnQ--fsSv_s=w60-h60-l90-rj",
+      "title": "I Just Wanna Be Great",
+      "albumTitle": "I Just Wanna Be Great",
+      "artistId": "UC281fR3Rg1O08xpxArdbdew"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/lKE84jMXkFWo1_PPZyzoj1RUjNNsguoKAoZDZINjwyprwDxss5Htd4ZkYYyaeIg29OzWupaoWOXtmd8=w60-h60-l90-rj",
+      "title": "Legends Are Made",
+      "id": "G7yL1aJlMRo",
+      "duration": 170,
+      "artistName": "Sam Tinnesz",
+      "releaseDate": null,
+      "artistId": "UCw-j-0yraYjPaPQP5FhlERg",
+      "albumTitle": "Legends Are Made"
+    },
+    {
+      "albumTitle": "Soldier",
+      "duration": 216,
+      "id": "aRmyWILbfYE",
+      "artistId": "UC281fR3Rg1O08xpxArdbdew",
+      "title": "Soldier",
+      "artistName": "NEFFEX",
+      "artwork": "https://lh3.googleusercontent.com/F1x7rrCL5-mP1kLvz2FFUK4BEibEHKom6OOzZ3NUnpbD_QrWrWPNN_g5XVh8NSEHaw3Te7bHRIUc1CBS=w60-h60-l90-rj",
+      "releaseDate": null
+    },
+    {
+      "duration": 152,
+      "artistId": "UC8PrS0Kmg-nZ_3-tAsNRSnQ",
+      "id": "oyhFHyuDHMA",
+      "title": "Die in This Town",
+      "albumTitle": "Act IV: Awake",
+      "artwork": "https://lh3.googleusercontent.com/5NPvrxErvgw6eyOulUdhPfrClfuFH_FtrWBd7cqRrfNNQYq8s5bqqkUHtE1xvlq-Ywj0JdhQEyImVioe=w60-h60-l90-rj",
+      "artistName": "The Seige",
+      "releaseDate": null
+    },
+    {
+      "albumTitle": "Elephant",
+      "title": "Seven Nation Army",
+      "artwork": "https://lh3.googleusercontent.com/tntNX15loRQ3Bqmw4MJunOy_lC43qU2Dqu3eBGWBSbQodGgzIDbnNDLtHCYpsKggh592RmaHnDdSacEe=w60-h60-l90-rj",
+      "id": "D_QLxj8jCF0",
+      "artistName": "The White Stripes",
+      "releaseDate": null,
+      "artistId": "UCD0Wge1UpszMtqK3P9x50vA",
+      "duration": 233
+    },
+    {
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/B1N8NXaM93AU45Jwma_drzsPUN5IV9TGm2i4uFBjFeBP6qVVzvZdf09Xj54c_vTaMURvWG-jYYC-D1k=w60-h60-l90-rj",
+      "title": "Survival",
+      "duration": 273,
+      "id": "Eaqyh97xOXs",
+      "artistName": "Eminem",
+      "albumTitle": "The Marshall Mathers LP2",
+      "artistId": "UCedvOgsKFzcK3hA5taf3KoQ"
+    },
+    {
+      "artistName": "Gold Coin",
+      "duration": null,
+      "artwork": "https://lh3.googleusercontent.com/Yxgjl7STxW_-nO5D-bGCVZPRbF6pjhNWaW95b15M1ozoxI01fWsD3B4laoHatb6QeEnipfrwSL_ktFvPRg=w60-h60-l90-rj",
+      "releaseDate": null,
+      "title": "The New Legends",
+      "artistId": "UC7ETi4ACjTbJLaR3dxu3ocQ",
+      "id": "-MgvN40oRFA",
+      "albumTitle": "2:30"
+    },
+    {
+      "releaseDate": null,
+      "artistId": "UCrPe3hLA51968GwxHSZ1llw",
+      "albumTitle": "Nevermind",
+      "artistName": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "artwork": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w60-h60-l90-rj",
+      "id": "ljUtuoFt-8c",
+      "duration": 302
+    },
+    {
+      "duration": 130,
+      "artistName": "The Seige",
+      "releaseDate": null,
+      "id": "C88ynENLHk0",
+      "albumTitle": "Boneshaker",
+      "artwork": "https://lh3.googleusercontent.com/YqfHAfJcOk6XEaCg1U_pbNu4LZVaupJMXakGnYBHP7WsO6XdADPE4ShyAni2DV1H1CMctwNruTVajfg=w60-h60-l90-rj",
+      "title": "The Drum",
+      "artistId": "UC8PrS0Kmg-nZ_3-tAsNRSnQ"
+    },
+    {
+      "duration": 213,
+      "artistId": "UCVytjped4uYvunvU045kK4w",
+      "albumTitle": "Top Of The Mountain",
+      "title": "Top Of The Mountain",
+      "artistName": "1v1",
+      "id": "m82P6WokM7I",
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/QmNbEH3oEIe2MPN_V-xNXMl5zpGRaIQ_8x-eRXTefXqV_QL-j_BFXI1p3rS1HJZpaJrGPb7Ao5Mqy1A=w60-h60-l90-rj"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/lwAw2SKUBpcfCeNZHtLtmZTf0qtoT-ff601H6wAf4Iehl5zW0iyjqeJwDgmuCw-fU6sNME0J7vRdB7LeLA=w60-h60-l90-rj",
+      "duration": null,
+      "title": "Brand New Day",
+      "id": "Bn4a3xDQJYY",
+      "releaseDate": null,
+      "artistName": "Sons of Legion",
+      "artistId": "UC9pafmRyrIdgNBHaFNQmufg",
+      "albumTitle": "3:04"
+    },
+    {
+      "title": "Numb",
+      "releaseDate": null,
+      "artistId": "UCxgN32UVVztKAQd2HkXzBtw",
+      "duration": 188,
+      "artistName": "Linkin Park",
+      "albumTitle": "Meteora (Bonus Edition)",
+      "id": "5qZQEq_C3vc",
+      "artwork": "https://lh3.googleusercontent.com/Rqh2HDAD-Fj1-oHYqVklPGklMHIV3r6SMPMZmFE3FlLiWeBBnP3SCESfgeNdzQ-DmpCIvOGE4J0hzVxa=w60-h60-s-l90-rj"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/dtJNjutgMCLfu4FemGp9xilUjGTrWo8eOzIzFQz97IEQaqB2NMWTarj1Sh2fuRNnlmfY8B-jrWm-nmuP=w60-h60-l90-rj",
+      "releaseDate": null,
+      "title": "Human",
+      "id": "52vehHn8KfQ",
+      "albumTitle": "Human",
+      "artistId": "UCgqSlB91jGqWkuym-oNeG9g",
+      "artistName": "Rag'n'Bone Man",
+      "duration": 200
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/cNJm_u2jXiRZkJhHN6yK1d-wC69TCv14FiNA9_z9skG5kPv4zyrt9egCmMyCI-gX7OtpwCuFPrU8R9k=w60-h60-l90-rj",
+      "id": "3DBPNrO93-c",
+      "title": "Wild Thing",
+      "albumTitle": "2:54",
+      "duration": 173.24,
+      "releaseDate": null,
+      "artistName": "Jaxson Gamble",
+      "artistId": "UCO9drtplyOsAqZWRFEzwQ1g"
+    },
+    {
+      "releaseDate": null,
+      "albumTitle": "Won't Go Down Easy",
+      "artistId": "UCO9drtplyOsAqZWRFEzwQ1g",
+      "duration": 180,
+      "artistName": "JAXSON GAMBLE",
+      "id": "UKFa6-cFLng",
+      "title": "Won't Go Down Easy",
+      "artwork": "https://lh3.googleusercontent.com/8YBUP-R-XrikDsIYbXYOKzhKqr--2JXN1hIwBPSNwhohhse8IeN09Zaq6H8VPJGBaPQIy754rSm8zTogFw=w60-h60-l90-rj"
+    },
+    {
+      "title": "Arise",
+      "artwork": "https://lh3.googleusercontent.com/i5L38nLikk5VUuE61cvVarK_qr5wpezg9jE_atbKtlmHnICP4qLPTqhUmjJY7WpV92UNx73IdwmIE-4W=w60-h60-l90-rj",
+      "albumTitle": "Put in Work",
+      "artistId": "UClXPpQuqgqFeUE6y0gPfPAg",
+      "id": "LC_op3ZPvJE",
+      "releaseDate": null,
+      "duration": 133,
+      "artistName": "Slizzy McGuire"
+    },
+    {
+      "artwork": "https://lh3.googleusercontent.com/YqfHAfJcOk6XEaCg1U_pbNu4LZVaupJMXakGnYBHP7WsO6XdADPE4ShyAni2DV1H1CMctwNruTVajfg=w60-h60-l90-rj",
+      "title": "Animal",
+      "id": "2yMfGJIW9GE",
+      "releaseDate": null,
+      "albumTitle": "Boneshaker",
+      "duration": 135,
+      "artistName": "The Seige",
+      "artistId": "UC8PrS0Kmg-nZ_3-tAsNRSnQ"
+    },
+    {
+      "releaseDate": null,
+      "title": "Prime",
+      "duration": 149,
+      "artistId": "UC8PrS0Kmg-nZ_3-tAsNRSnQ",
+      "id": "5bWBwislhjI",
+      "artistName": "The Seige",
+      "albumTitle": "Boneshaker",
+      "artwork": "https://lh3.googleusercontent.com/YqfHAfJcOk6XEaCg1U_pbNu4LZVaupJMXakGnYBHP7WsO6XdADPE4ShyAni2DV1H1CMctwNruTVajfg=w60-h60-l90-rj"
+    },
+    {
+      "releaseDate": null,
+      "artwork": "https://lh3.googleusercontent.com/ZMhtMr4IcuXC-AEIXqenhChyIPC6t-a6Ux-1pf06h7d_2--_Y2a7D9N_hfkMvyi0yyPJGMCLzAvNK0s=w60-h60-l90-rj",
+      "artistName": "Wellmess",
+      "albumTitle": "3:04",
+      "id": "f7Ak2h74e0o",
+      "artistId": "UC6RKx3RTn65dcvk2mxb_rKQ",
+      "duration": null,
+      "title": "Tell Me Something New (Tigerblood Jewel Remix) (Instrumental Version) (feat. Tigerblood Jewel)"
+    },
+    {
+      "albumTitle": "Blood Is Rebel",
+      "releaseDate": null,
+      "artistName": "Oh The Larceny",
+      "title": "Another Level",
+      "artwork": "https://lh3.googleusercontent.com/xOOEJwTgoPKsjTcjwt11FsxYcQLFbC3q1OWr8Rch5NYNx82yLFHUqvO3Hb7tl7Rg2Lz9lXgvh-rqUZo=w60-h60-l90-rj",
+      "duration": 191,
+      "id": "E6v-kIE26QY",
+      "artistId": "UCHqr3Pg4N6oTnLWPD6R32gg"
+    }
+  ],
+  "thumbnailData": null,
+  "thumbnailUrl": "https://mosaic.scdn.co/640/ab67616d00001e023cf1c1dbcfa3f1ab7282719bab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e026e996745f2c7b8036abef213ab67616d00001e0277dfdf85b610b3fbfdcefcaf",
+  "title": "Motivation",
+  "itemCount": 67,
+  "createdDate": "2025-02-13T19:25:03.823Z"
+}
